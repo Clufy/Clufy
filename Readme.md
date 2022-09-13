@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Clufy
+- 👋 Hi there, I’m @Clufy
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning to about Bloc
+- 🌱 I’m currently learning about Bloc implementation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clufy220@gmail.com
 
