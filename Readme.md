@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Clufy
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning about Bloc implementation
+- 🌱 I’m currently working on a news_app project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clufy220@gmail.com
 
