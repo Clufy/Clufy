@@ -1,4 +1,4 @@
-# Hi, I'm Clufy 👋
+# Hi, I'm Aquib 👋
 
 AI-focused developer passionate about building reliable, scalable systems and turning complex problems into practical products.
 
