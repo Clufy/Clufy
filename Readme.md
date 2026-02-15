@@ -1,10 +1,20 @@
-- 👋 Hi there, I’m @Clufy
-- 👀 I’m interested in AI
-- 🌱 I’m currently working on a news_app project
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me clufy220@gmail.com
+# Hi, I'm Clufy 👋
 
-<!---
-Clufy/Clufy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI-focused developer passionate about building reliable, scalable systems and turning complex problems into practical products.
+
+## 🚀 What I'm Working On
+- Developing a **resume_analyzer** platform.
+
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript  
+- **AI/ML:** LLM integrations, prompt-driven workflows  
+- **Backend:** APIs, async systems  
+- **Tools:** Git, Docker
+
+## 🎯 Roles I'm Interested In
+- AI Engineer  
+- Backend Engineer  
+- Applied Machine Learning / Automation roles
+
+## 📫 Contact
+- Email: clufy220@gmail.com
