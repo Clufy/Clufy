@@ -2,7 +2,7 @@
 
 Software engineer in Karachi, Pakistan, building **AI and security tooling in Python and TypeScript**. I ship libraries with typed APIs, CI, docs and real test coverage, and I care about systems that fail loudly instead of guessing.
 
-Currently building at **[Zairen](https://zairen-website.vercel.app)**.
+Currently building at **[Zairen](https://zairen.co)**.
 
 ## Featured work
 
