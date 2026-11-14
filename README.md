@@ -11,7 +11,7 @@ Currently building at **[Zairen](https://zairen.co)**.
 | **[spanguard](https://github.com/Clufy/spanguard)** | Detects and redacts PII/PHI in text and streaming transcripts | [On PyPI](https://pypi.org/project/spanguard/) · 97% coverage · mypy strict · audit records that never hold raw values |
 | **[voxbridge](https://github.com/Clufy/voxbridge)** | One typed Python SDK over the Vapi and Retell voice-agent platforms | [On PyPI](https://pypi.org/project/voxbridge-sdk/) · sync + async · webhook verification · [docs](https://clufy.github.io/voxbridge/) |
 | **[Sentinel](https://github.com/Clufy/Sentinel)** | Q&A over NIST 800-53, ISO 27001 and CIS v8 that cites the exact controls, or refuses | RAG with FastAPI, pgvector and Ollama · self-hosted · CI |
-| **[resume_analyzer](https://github.com/Clufy/resume_analyzer)** | AI resume analyzer and job matcher | FastAPI, Next.js, Supabase · local LLMs via Ollama |
+| **[claude-code-gateway](https://github.com/Clufy/claude-code-gateway)** | Cloudflare Worker that runs Claude Code on any model: Workers AI, OpenAI, Gemini or Anthropic | TypeScript · session guard + scope hook for red/purple teaming · 70-case red-team harness · MCP server · one-click deploy |
 
 ## Tech I work with
 
