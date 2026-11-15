@@ -1,3 +1,5 @@
+![Aquib Haq, AI and backend engineer](https://raw.githubusercontent.com/Clufy/Clufy/main/.github/assets/banner.gif)
+
 # Hi, I'm Aquib Haq
 
 **AI engineer and backend engineer in Karachi, Pakistan**, building **AI and security tooling in Python and TypeScript**: RAG systems, LLM gateways, voice-agent SDKs and PII redaction. I ship libraries with typed APIs, CI, docs and real test coverage, and I care about systems that fail loudly instead of guessing.
