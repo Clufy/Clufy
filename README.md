@@ -72,9 +72,20 @@ Currently building at **[Zairen](https://zairen.co)**. Open to **AI Engineer, Ba
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,fastapi,nextjs,react,flutter,postgres,supabase,docker,cloudflare,githubactions,linux&theme=dark" alt="Python, TypeScript, FastAPI, Next.js, React, Flutter, PostgreSQL, Supabase, Docker, Cloudflare, GitHub Actions, Linux">
+  <a href="https://github.com/search?q=user%3AClufy+language%3APython&type=repositories"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" title="Python projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+language%3ATypeScript&type=repositories"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" title="TypeScript projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+topic%3Afastapi&type=repositories"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI" title="FastAPI projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+topic%3Anextjs&type=repositories"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" title="Next.js projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+react+in%3Areadme&type=repositories"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" title="React projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+topic%3Aflutter&type=repositories"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" title="Flutter projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+postgres+in%3Areadme&type=repositories"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" title="PostgreSQL / pgvector projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+topic%3Asupabase&type=repositories"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" title="Supabase projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+docker+in%3Areadme&type=repositories"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" title="Dockerised projects"></a>
+  <a href="https://github.com/search?q=user%3AClufy+topic%3Acloudflare-workers&type=repositories"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="Cloudflare Workers" title="Cloudflare Workers projects"></a>
+  <a href="https://github.com/Clufy/spanguard/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions" title="GitHub Actions CI (spanguard)"></a>
 </p>
 
+<sub>Each icon links to my repos that use it.</sub><br>
 <sub><b>AI / LLM:</b> RAG pipelines, pgvector, Ollama, LLM evaluation, LLM security, voice agents (Vapi, Retell) · <b>Backend:</b> FastAPI, asyncio, httpx, Pydantic, REST APIs, webhooks · <b>Security & compliance:</b> PII/PHI redaction, NIST 800-53, ISO 27001, CIS Controls</sub>
 
 ## GitHub activity
