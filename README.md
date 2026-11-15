@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="176" valign="top"><img src="https://raw.githubusercontent.com/Clufy/Clufy/main/.github/assets/avatar.gif" width="160" alt="Pixel-art avatar of a developer with green headphones, blinking at a terminal"></td>
+<td width="176" valign="top"><img src="https://raw.githubusercontent.com/Clufy/Clufy/main/.github/assets/avatar-anime.svg" width="160" alt="Anime-style avatar: a calm engineer with dark hair, glasses, green headphones and a blue hoodie"></td>
 <td valign="top">
 
 ## Hi, I'm Aquib Haq
