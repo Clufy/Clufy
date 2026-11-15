@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Aquib Haq, AI and backend engineer</title>
+<desc id="desc">A terminal types whoami and lists projects spanguard, voxbridge, Sentinel and claude-code-gateway, next to an animated network of those projects.</desc>
+<style>text{font-family:'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,Consolas,monospace;font-size:18px;fill:#1f2328}.m{fill:#59636e}.p{fill:#1a7f37;font-weight:700}.h{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:15px;letter-spacing:.08em;fill:#59636e}.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}.edge{stroke:#d0d7de;stroke-width:2}.flow{stroke-width:4;stroke-linecap:round;stroke-dasharray:6 220;animation:flow 2.4s linear infinite}@keyframes flow{from{stroke-dashoffset:226}to{stroke-dashoffset:0}}.node{transform-box:fill-box;transform-origin:center;animation:pulse 3s ease-in-out infinite}@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.25)}}.ring{transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite;fill:none;stroke-width:2}@keyframes ring{0%{transform:scale(.6);opacity:.9}100%{transform:scale(2.4);opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}@keyframes r0{0%,4.0%{width:0}14.0%,94%{width:127px}100%{width:0}}.r0{width:0;animation:r0 14s steps(6) infinite}@keyframes r1{0%,19.0%{width:0}25.0%,94%{width:527px}100%{width:0}}.r1{width:0;animation:r1 14s steps(43) infinite}@keyframes r2{0%,28.0%{width:0}38.0%,94%{width:203px}100%{width:0}}.r2{width:0;animation:r2 14s steps(13) infinite}@keyframes r3{0%,43.0%{width:0}49.0%,94%{width:592px}100%{width:0}}.r3{width:0;animation:r3 14s steps(49) infinite}@keyframes r4{0%,52.0%{width:0}62.0%,94%{width:203px}100%{width:0}}.r4{width:0;animation:r4 14s steps(13) infinite}@keyframes r5{0%,67.0%{width:0}79.0%,94%{width:559px}100%{width:0}}.r5{width:0;animation:r5 14s steps(4) infinite}</style>
+<rect width="1200" height="420" rx="16" fill="#ffffff"/>
+<path d="M0.5 0V420" stroke="#f0f3f6"/>
+<path d="M40.5 0V420" stroke="#f0f3f6"/>
+<path d="M80.5 0V420" stroke="#f0f3f6"/>
+<path d="M120.5 0V420" stroke="#f0f3f6"/>
+<path d="M160.5 0V420" stroke="#f0f3f6"/>
+<path d="M200.5 0V420" stroke="#f0f3f6"/>
+<path d="M240.5 0V420" stroke="#f0f3f6"/>
+<path d="M280.5 0V420" stroke="#f0f3f6"/>
+<path d="M320.5 0V420" stroke="#f0f3f6"/>
+<path d="M360.5 0V420" stroke="#f0f3f6"/>
+<path d="M400.5 0V420" stroke="#f0f3f6"/>
+<path d="M440.5 0V420" stroke="#f0f3f6"/>
+<path d="M480.5 0V420" stroke="#f0f3f6"/>
+<path d="M520.5 0V420" stroke="#f0f3f6"/>
+<path d="M560.5 0V420" stroke="#f0f3f6"/>
+<path d="M600.5 0V420" stroke="#f0f3f6"/>
+<path d="M640.5 0V420" stroke="#f0f3f6"/>
+<path d="M680.5 0V420" stroke="#f0f3f6"/>
+<path d="M720.5 0V420" stroke="#f0f3f6"/>
+<path d="M760.5 0V420" stroke="#f0f3f6"/>
+<path d="M800.5 0V420" stroke="#f0f3f6"/>
+<path d="M840.5 0V420" stroke="#f0f3f6"/>
+<path d="M880.5 0V420" stroke="#f0f3f6"/>
+<path d="M920.5 0V420" stroke="#f0f3f6"/>
+<path d="M960.5 0V420" stroke="#f0f3f6"/>
+<path d="M1000.5 0V420" stroke="#f0f3f6"/>
+<path d="M1040.5 0V420" stroke="#f0f3f6"/>
+<path d="M1080.5 0V420" stroke="#f0f3f6"/>
+<path d="M1120.5 0V420" stroke="#f0f3f6"/>
+<path d="M1160.5 0V420" stroke="#f0f3f6"/>
+<path d="M0 0.5H1200" stroke="#f0f3f6"/>
+<path d="M0 40.5H1200" stroke="#f0f3f6"/>
+<path d="M0 80.5H1200" stroke="#f0f3f6"/>
+<path d="M0 120.5H1200" stroke="#f0f3f6"/>
+<path d="M0 160.5H1200" stroke="#f0f3f6"/>
+<path d="M0 200.5H1200" stroke="#f0f3f6"/>
+<path d="M0 240.5H1200" stroke="#f0f3f6"/>
+<path d="M0 280.5H1200" stroke="#f0f3f6"/>
+<path d="M0 320.5H1200" stroke="#f0f3f6"/>
+<path d="M0 360.5H1200" stroke="#f0f3f6"/>
+<path d="M0 400.5H1200" stroke="#f0f3f6"/>
+<rect x="36" y="40" width="640" height="340" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<path d="M36 52a12 12 0 0 1 12-12h616a12 12 0 0 1 12 12v24H36z" fill="#eaeef2"/>
+<circle cx="58" cy="58" r="6" fill="#ff5f57"/>
+<circle cx="78" cy="58" r="6" fill="#febc2e"/>
+<circle cx="98" cy="58" r="6" fill="#28c840"/>
+<text x="356.0" y="64" text-anchor="middle" class="m" style="font-size:13px">aquib@clufy: ~</text>
+<clipPath id="c0"><rect class="r0" x="56" y="96" height="32"/></clipPath>
+<g clip-path="url(#c0)">
+<text x="60" y="118"><tspan class="p">❯</tspan> whoami</text>
+</g>
+<clipPath id="c1"><rect class="r1" x="56" y="130" height="32"/></clipPath>
+<g clip-path="url(#c1)">
+<text x="60" y="152" class="m">Aquib Haq · AI &amp; backend engineer · Karachi</text>
+</g>
+<clipPath id="c2"><rect class="r2" x="56" y="174" height="32"/></clipPath>
+<g clip-path="url(#c2)">
+<text x="60" y="196"><tspan class="p">❯</tspan> cat focus.txt</text>
+</g>
+<clipPath id="c3"><rect class="r3" x="56" y="208" height="32"/></clipPath>
+<g clip-path="url(#c3)">
+<text x="60" y="230" class="m">RAG · LLM security · voice agents · PII redaction</text>
+</g>
+<clipPath id="c4"><rect class="r4" x="56" y="252" height="32"/></clipPath>
+<g clip-path="url(#c4)">
+<text x="60" y="274"><tspan class="p">❯</tspan> ls ~/projects</text>
+</g>
+<clipPath id="c5"><rect class="r5" x="56" y="286" height="32"/></clipPath>
+<g clip-path="url(#c5)">
+<text x="60" y="308" style="font-size:16px" xml:space="preserve"><tspan style="fill:#8250df;font-weight:700">spanguard</tspan>  <tspan style="fill:#0969da;font-weight:700">voxbridge</tspan>  <tspan style="fill:#1a7f37;font-weight:700">Sentinel</tspan>  <tspan style="fill:#cf222e;font-weight:700">claude-code-gateway</tspan></text>
+</g>
+<text x="60" y="352"><tspan class="p">❯</tspan> <tspan class="cur" style="fill:#1a7f37">▋</tspan></text>
+<text x="940" y="36" text-anchor="middle" class="h">OPEN-SOURCE PROJECTS</text>
+<path class="edge" d="M940 210L800 92"/>
+<path class="flow" d="M940 210L800 92" stroke="#8250df" style="animation-delay:-0.0s;stroke-dasharray:18 203;animation-name:f0"/>
+<style>@keyframes f0{from{stroke-dashoffset:221}to{stroke-dashoffset:0}}</style>
+<path class="edge" d="M940 210L1110 120"/>
+<path class="flow" d="M940 210L1110 120" stroke="#0969da" style="animation-delay:-0.6s;stroke-dasharray:18 212;animation-name:f1"/>
+<style>@keyframes f1{from{stroke-dashoffset:230}to{stroke-dashoffset:0}}</style>
+<path class="edge" d="M940 210L1105 315"/>
+<path class="flow" d="M940 210L1105 315" stroke="#1a7f37" style="animation-delay:-1.2s;stroke-dasharray:18 216;animation-name:f2"/>
+<style>@keyframes f2{from{stroke-dashoffset:234}to{stroke-dashoffset:0}}</style>
+<path class="edge" d="M940 210L812 330"/>
+<path class="flow" d="M940 210L812 330" stroke="#cf222e" style="animation-delay:-1.8s;stroke-dasharray:18 195;animation-name:f3"/>
+<style>@keyframes f3{from{stroke-dashoffset:213}to{stroke-dashoffset:0}}</style>
+<circle class="ring" cx="800" cy="92" r="12" stroke="#8250df" style="animation-delay:-0.00s"/>
+<circle class="node" cx="800" cy="92" r="11" fill="#8250df" style="animation-delay:-0.00s"/>
+<text x="800" y="68" text-anchor="middle" style="font-size:15px;font-weight:700;fill:#8250df">spanguard</text>
+<circle class="ring" cx="1110" cy="120" r="12" stroke="#0969da" style="animation-delay:-0.75s"/>
+<circle class="node" cx="1110" cy="120" r="11" fill="#0969da" style="animation-delay:-0.75s"/>
+<text x="1110" y="96" text-anchor="middle" style="font-size:15px;font-weight:700;fill:#0969da">voxbridge</text>
+<circle class="ring" cx="1105" cy="315" r="12" stroke="#1a7f37" style="animation-delay:-1.50s"/>
+<circle class="node" cx="1105" cy="315" r="11" fill="#1a7f37" style="animation-delay:-1.50s"/>
+<text x="1105" y="351" text-anchor="middle" style="font-size:15px;font-weight:700;fill:#1a7f37">Sentinel</text>
+<circle class="ring" cx="812" cy="330" r="12" stroke="#cf222e" style="animation-delay:-2.25s"/>
+<circle class="node" cx="812" cy="330" r="11" fill="#cf222e" style="animation-delay:-2.25s"/>
+<text x="812" y="366" text-anchor="middle" style="font-size:15px;font-weight:700;fill:#cf222e">claude-code-gateway</text>
+<circle cx="940" cy="210" r="30" fill="#ffffff" stroke="#1f2328" stroke-width="3"/>
+<text x="940" y="217" text-anchor="middle" style="font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:20px;fill:#1f2328">AH</text>
+</svg>
