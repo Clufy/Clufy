@@ -41,6 +41,7 @@ THEMES = {
 }
 SANS = "Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 MONO = "'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+EXCLUDE = {"Jupyter Notebook", "HTML"}  # notebook JSON and markup inflate byte counts
 
 
 def fetch(user, token):
@@ -63,6 +64,8 @@ def summarize(u):
     for r in repos:
         for e in r["languages"]["edges"]:
             n = e["node"]["name"]
+            if n in EXCLUDE:
+                continue
             langs.setdefault(n, [0, e["node"]["color"] or "#8b949e"])[0] += e["size"]
     total = sum(v[0] for v in langs.values()) or 1
     top = sorted(langs.items(), key=lambda kv: -kv[1][0])[:6]
@@ -93,12 +96,13 @@ def card(w, h, t, title, body):
 
 def stats_svg(s, t):
     rows = []
-    for i, (label, val) in enumerate(s["stats"]):
+    items = [(label, val) for label, val in s["stats"] if val]  # hide zero-valued rows
+    for i, (label, val) in enumerate(items):
         y = 92 + i * 30
         rows.append(f'<g class="row" style="animation-delay:{i * .12:.2f}s">'
                     f'<text x="24" y="{y}" class="m" style="font-size:14px">{escape(label)}</text>'
                     f'<text x="396" y="{y}" text-anchor="end" class="n" style="font-size:15px">{val:,}</text></g>')
-    return card(420, 92 + 6 * 30 - 6, t, "GitHub activity", "".join(rows))
+    return card(420, 92 + len(items) * 30 - 6, t, "GitHub activity", "".join(rows))
 
 
 def langs_svg(s, t):
